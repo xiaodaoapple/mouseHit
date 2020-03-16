@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/mouse">
+        <file>images/mouseDown.png</file>
+        <file>images/mouseOriginal.png</file>
+        <file>images/mouseUp.png</file>
+    </qresource>
+    <qresource prefix="/hammer">
+        <file>images/hammerDown.png</file>
+        <file>images/hammerUp.png</file>
+    </qresource>
+</RCC>
